@@ -33,4 +33,4 @@ async def on_ready():
 async def on_command_completion(ctx):
     update()
 
-bot.run('NzA1ODA1MzMyMjE1MTAzNDk4.XqxGfw.Dde6mdSRfAjUvTOHmMT1Z_jT9ms')
+bot.run('')
